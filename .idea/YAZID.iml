@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../../../../../skripsi/Android/YAZID/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../../../../../skripsi/Android/YAZID/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../../../../Skripsi/YAZID/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../../../../Skripsi/YAZID/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../../../../Skripsi/YAZID/libs" />
+        <option name="PROJECT_TYPE" value="1" />
+        <option name="PACK_TEST_CODE" value="true" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../proguard_logs" />
+        <option name="UPDATE_PROPERTY_FILES" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID" />
+    <output-test url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/gen" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/gen/com/yazid" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/.classpath" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/.metadata" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/.project" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/AndroidManifest.xml" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/BuildConfig.java" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/Manifest.java" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/R.java" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/com" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/gen/com/yazid" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/ic_launcher-web.png" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/project.properties" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/res" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../skripsi/Android/YAZID/src" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

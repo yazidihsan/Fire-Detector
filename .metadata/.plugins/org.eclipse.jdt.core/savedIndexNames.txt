@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+D:\Bob\Developer\Programming\Android Programming\Android\YAZID\.metadata\.plugins\org.eclipse.jdt.core
+2300127349.index
+3553301025.index
+3958495400.index
